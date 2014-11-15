@@ -13,7 +13,7 @@ Installation
 7. click on the "Add" button at the bottom of the window to begin pulling down the Docker image
 8. Once the image is downloaded you should see it appear in the "Extensions" section under the heading "Docker Apps"
 
-Other Docker Templates
-======================
+Other useful Docker Templates
+=============================
 1. https://github.com/gfjardim/docker-templates
 2. https://github.com/binhex/docker-templates

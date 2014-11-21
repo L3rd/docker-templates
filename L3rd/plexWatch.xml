@@ -9,7 +9,7 @@
   </Description>
   <Registry>https://registry.hub.docker.com/u/l3rd/plexwatch/</Registry>
   <GitHub>https://github.com/L3rd/docker-plexWatch</GitHub>
-  <Repository>needo/plexwatch</Repository>
+  <Repository>l3rd/plexwatch</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>

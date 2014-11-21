@@ -45,7 +45,7 @@
       <Mode>rw</Mode>
     </Volume>
   </Data>
-  <WebUI>http://[IP]:[PORT:8080]/plexWatch</WebUI>
+  <WebUI>http://[IP]:[PORT:8084]/plexWatch</WebUI>
   <Banner>http://i.imgur.com/aXdzX1v.png</Banner>
   <Icon>http://i.imgur.com/aXdzX1v.png</Icon>
 </Container>
